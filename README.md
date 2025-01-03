@@ -120,7 +120,3 @@ The application should now be running on `http://localhost:3000` (or another por
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, submit pull requests, or open issues for discussion.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
